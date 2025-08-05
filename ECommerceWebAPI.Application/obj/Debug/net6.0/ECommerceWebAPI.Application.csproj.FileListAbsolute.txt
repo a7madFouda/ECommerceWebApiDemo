@@ -1,0 +1,11 @@
+C:\Users\a7med\source\repos\ECommerceWebAPI\ECommerceWebAPI.Application\bin\Debug\net6.0\ECommerceWebAPI.Application.deps.json
+C:\Users\a7med\source\repos\ECommerceWebAPI\ECommerceWebAPI.Application\bin\Debug\net6.0\ECommerceWebAPI.Application.dll
+C:\Users\a7med\source\repos\ECommerceWebAPI\ECommerceWebAPI.Application\bin\Debug\net6.0\ECommerceWebAPI.Application.pdb
+C:\Users\a7med\source\repos\ECommerceWebAPI\ECommerceWebAPI.Application\obj\Debug\net6.0\ECommerceWebAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a7med\source\repos\ECommerceWebAPI\ECommerceWebAPI.Application\obj\Debug\net6.0\ECommerceWebAPI.Application.AssemblyInfoInputs.cache
+C:\Users\a7med\source\repos\ECommerceWebAPI\ECommerceWebAPI.Application\obj\Debug\net6.0\ECommerceWebAPI.Application.AssemblyInfo.cs
+C:\Users\a7med\source\repos\ECommerceWebAPI\ECommerceWebAPI.Application\obj\Debug\net6.0\ECommerceWebAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\a7med\source\repos\ECommerceWebAPI\ECommerceWebAPI.Application\obj\Debug\net6.0\ECommerceWebAPI.Application.dll
+C:\Users\a7med\source\repos\ECommerceWebAPI\ECommerceWebAPI.Application\obj\Debug\net6.0\refint\ECommerceWebAPI.Application.dll
+C:\Users\a7med\source\repos\ECommerceWebAPI\ECommerceWebAPI.Application\obj\Debug\net6.0\ECommerceWebAPI.Application.pdb
+C:\Users\a7med\source\repos\ECommerceWebAPI\ECommerceWebAPI.Application\obj\Debug\net6.0\ref\ECommerceWebAPI.Application.dll
